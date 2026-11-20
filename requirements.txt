@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-groq
+dotenv
+langchain-tavily
+tavily
+langchain_community
+google-genai
+pandas
+streamlit
