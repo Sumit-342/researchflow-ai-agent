@@ -95,7 +95,7 @@ section[data-testid="stSidebar"] .stButton>button{border-radius:12px}
 """
 st.markdown(CSS, unsafe_allow_html=True)
 
-# --- Streamlit API compat (width="stretch" replaced use_container_width) ---
+# --- Streamlit API compat  ---
 try:
     _v = tuple(int(x) for x in st.__version__.split(".")[:2])
 except Exception:
